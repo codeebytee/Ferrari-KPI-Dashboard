@@ -50,6 +50,5 @@ This project demonstrates proficiency in the full BI lifecycle:
 ## 📂 Repository Structure
 ```text
 ├── data/               # Raw data files (anonymized/public)
-├── assets/             # Screenshots and icons used in the report
 ├── Ferrari_Report.pbix # The Power BI source file
 └── README.md           # Project documentation
